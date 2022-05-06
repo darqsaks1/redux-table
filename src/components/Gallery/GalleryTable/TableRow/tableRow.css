@@ -1,0 +1,12 @@
+img {
+  width: 100px;
+  height: 100px;
+}
+td {
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.delete-item {
+  cursor: pointer;
+}
